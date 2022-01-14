@@ -6,12 +6,8 @@
 <h3 align = center><b>
 
 ```python
-"Python" Lover 💖
 Want To Be A "Programmer" | "Web Designer" ❤
-I'm Still Learning "Python" | "Java"  
-For Any Suggestion Or Enquiry mail Me
-Mail ID :- gauravv2504@gmail.com
-
+A passionate Girl For Coding. 😍
 ```
 </b></h3>
 
@@ -31,15 +27,3 @@ Mail ID :- gauravv2504@gmail.com
         <img src="https://gpvc.arturio.dev/ossasthana">
     </p> 
 </h1></b>  
-
-
-<h1 align = center><b> ⠂Social Accounts⠐
-  <br>
-  <br>
-    
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ossasthanav) [![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logocolor=white)](https://telegram.dog/ossasthanav) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ossasthana)  [![facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ossasthanav) [![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ossasthana)  
-</b></h1>
-
-
-
-
