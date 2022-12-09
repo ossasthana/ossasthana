@@ -7,7 +7,7 @@
 
 ```python
 Want To Be A "Programmer" | "Web Designer" ❤
-A passionate Girl For Coding. 😍
+A passionate Girl For Coding. 
 ```
 </b></h3>
 
