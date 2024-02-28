@@ -6,8 +6,7 @@
 <h3 align = center><b>
 
 ```python
-Want To Be A "Programmer" | "Web Designer" ❤
-A passionate Girl For Coding. 
+Hey there! I'm Oss Asthana, an inquisitive explorer with a passion for technology and its limitless possibilities. I'm always on the lookout for the latest innovations and eager to dive deep into the world of coding, hacking, and problem-solving. 
 ```
 </b></h3>
 
